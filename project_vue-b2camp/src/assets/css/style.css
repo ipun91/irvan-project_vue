@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+}
+
+.ikon{
+    width: 24px;
+    height: auto;
+}
+
+.item-row1{
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+    justify-content: center;
+}
+
+.item-row2{
+    display: flex;
+    flex-direction: row;
+    gap: 8px;
+    align-items: flex-start;
+}
+
+.light{
+    font-weight: 300;
+}
